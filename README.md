@@ -4,4 +4,4 @@
 # Dataset link:- https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ## The Output of app.py
-<img src='Screenshot(229).png' alt='UI'>
+<img src='Screenshot (229).png' alt='UI'>
