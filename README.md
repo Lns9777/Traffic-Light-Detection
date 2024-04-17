@@ -3,4 +3,4 @@
 
 # Dataset link:- https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-<img src='images' alt='Image'>
+<img src='images.jpeg' alt='Image'>
