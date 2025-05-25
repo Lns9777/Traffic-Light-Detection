@@ -18,7 +18,7 @@ st.markdown("""
             """, unsafe_allow_html=True)
 
 # Load Model
-model = load_model('./MODEL/my_model.h5')
+model = load_model('my_model.h5')
 
 # Class Names
 classes = {0:'Speed limit (20km/h)',
